@@ -98,3 +98,11 @@ Send me a message directly through the contact google form. I’m always open to
 
 ## 📬 Feedback
 If you have any suggestions or feedback about my portfolio, feel free to open an issue or contact me via GitHub!
+
+---
+
+## Developed With ❤️ By Surya Pratap Verma.
+
+---
+
+## Page Link - https://suryapratap0773.github.io/Surya-s-Portfolio/
